@@ -1,0 +1,7 @@
+{
+  "name": "Daybreakhomesupport",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
